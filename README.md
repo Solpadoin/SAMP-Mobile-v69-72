@@ -1,4 +1,4 @@
-# SAMP-Mobile-v69-72
+# SA-MP-Mobile-v69-72
 This is a modified version of the SAMP Mobile v69.  Added \ replaced some stuff like Health sync.
 
 You should understand that I'm not responsible for your projects. You should use it for own risk. 
